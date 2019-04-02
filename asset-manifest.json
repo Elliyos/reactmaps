@@ -1,14 +1,11 @@
 {
-  "main.css": "/reactmaps/static/css/main.b5ae4f69.chunk.css",
-  "main.js": "/reactmaps/static/js/main.7d83ea84.chunk.js",
-  "main.js.map": "/reactmaps/static/js/main.7d83ea84.chunk.js.map",
-  "runtime~main.js": "/reactmaps/static/js/runtime~main.ec7ec849.js",
-  "runtime~main.js.map": "/reactmaps/static/js/runtime~main.ec7ec849.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/reactmaps/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/reactmaps/static/js/2.6efc73d3.chunk.js.map",
+  "main.js": "/reactmaps/static/js/main.2b3e534c.chunk.js",
+  "main.js.map": "/reactmaps/static/js/main.2b3e534c.chunk.js.map",
+  "runtime~main.js": "/reactmaps/static/js/runtime~main.45fd6f3f.js",
+  "runtime~main.js.map": "/reactmaps/static/js/runtime~main.45fd6f3f.js.map",
+  "static/js/2.47db4d54.chunk.js": "/reactmaps/static/js/2.47db4d54.chunk.js",
+  "static/js/2.47db4d54.chunk.js.map": "/reactmaps/static/js/2.47db4d54.chunk.js.map",
   "index.html": "/reactmaps/index.html",
-  "precache-manifest.3068ad078a0b934b8d032fee3367a2a2.js": "/reactmaps/precache-manifest.3068ad078a0b934b8d032fee3367a2a2.js",
-  "service-worker.js": "/reactmaps/service-worker.js",
-  "static/css/main.b5ae4f69.chunk.css.map": "/reactmaps/static/css/main.b5ae4f69.chunk.css.map",
-  "static/media/logo.svg": "/reactmaps/static/media/logo.5d5d9eef.svg"
+  "precache-manifest.87e72fe4d695c612b8cdd0e68925814d.js": "/reactmaps/precache-manifest.87e72fe4d695c612b8cdd0e68925814d.js",
+  "service-worker.js": "/reactmaps/service-worker.js"
 }
